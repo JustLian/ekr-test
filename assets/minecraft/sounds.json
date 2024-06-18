@@ -1,0 +1,23 @@
+{
+    "voiceline.suzume.start": {
+        "sounds": ["custom/suzume_start"]
+    },
+    "voiceline.suzume.ability": {
+        "sounds": ["custom/suzume_ability"]
+    },
+    "voiceline.suzume.victory": {
+        "sounds": ["custom/suzume_victory"]
+    },
+    "voiceline.dimitri.start": {
+        "sounds": ["custom/dimitri_start"]
+    },
+    "voiceline.dimitri.ability": {
+        "sounds": ["custom/dimitri_ability"]
+    },
+    "voiceline.dimitri.victory": {
+        "sounds": ["custom/dimitri_victory"]
+    },
+    "cmusic.nefor.breakcore": {
+        "sounds": ["custom/nefor-breakcore"]
+    }
+}
